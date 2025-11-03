@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hola, soy Facundo Castillo
 
-<!--
-**facundoCastilloUy/facundoCastilloUy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador front-end enfocado en crear sitios web claros, rápidos y modernos.  
+Trabajo con HTML, CSS y JavaScript, y me interesa seguir aprendiendo herramientas como Tailwind, WordPress y APIs.
 
-Here are some ideas to get you started:
+Mi objetivo es ofrecer soluciones web simples y funcionales para emprendedores y pequeñas marcas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰 Tecnologías y herramientas
+
+- HTML / CSS / JavaScript  
+- Tailwind CSS  
+- Git / GitHub  
+- Netlify (hosting)  
+- Diseño responsivo  
+- Uso de IA en flujos de diseño
+
+---
+
+🧩 Proyectos destacados
+
+### [Micrositio personal](https://facundocastillo.netlify.app)
+Sitio web desarrollado para el curso *Diseño Web 3* – aplicación real de buenas prácticas de desarrollo front-end, responsive y con integración a GTM + Formspree.
+
+### [Catálogo de videojuegos (HTML/CSS/JS)](https://github.com/facundocastillo/catalogo-videojuegos)
+Proyecto académico enfocado en manipulación de arrays, DOM dinámico y filtros por categoría.
+
+---
+
+## 🌎 Conectemos
+📫 [facundohcastillo@gmail.com](mailto:facundohcastillo@gmail.com)  
+💻 [Portfolio](https://facundocastillo.netlify.app)
